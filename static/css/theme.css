@@ -988,4 +988,8 @@ pre .copy-to-clipboard:hover {
     transform-style: preserve-3d;
 }
 
+#searchResults {
+    text-align: left;
+}
+
 /*# sourceMappingURL=theme.css.map */
