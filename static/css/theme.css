@@ -1005,4 +1005,9 @@ pre .copy-to-clipboard:hover {
     display: inline;
 }
 
+#body .footer {
+    margin: 0 5% 5% 5%;
+    font-size: small;
+}
+
 /*# sourceMappingURL=theme.css.map */
